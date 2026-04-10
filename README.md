@@ -185,6 +185,6 @@ jupyter
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 The authors gratefully acknowledge the **Centers for Disease Control and Prevention (CDC)** for making the YRBS dataset publicly accessible, and the **Child Health and Community Wellness** organization for the curated data summary report. All analyses were conducted using open-source Python libraries.
