@@ -22,7 +22,7 @@ The pipeline covers the full spectrum of data science practice: from raw data in
 |---|---|---|
 | **Priscilla Sarfoa Anim** | Grand Valley State University | animp@mail.gvsu.edu |
 | **Victor Entsie** | Grand Valley State University | entsiev@mail.gvsu.edu |
-| **Kwame Nyankyerah** | Grand Valley State University |  |
+| **Kwame Nyankyerah** | Grand Valley State University | nyankyek@mail.gvsu.edu |
 | **Esther Djan** | Grand Valley State University | Djane@mail.gvsu.edu|
 
 ---
