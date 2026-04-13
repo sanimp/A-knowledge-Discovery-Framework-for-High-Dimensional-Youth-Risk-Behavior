@@ -220,4 +220,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-We gratefully acknowledge the **Centers for Disease Control and Prevention (CDC)** for making the YRBS dataset publicly accessible, and the **Child Health and Community Wellness** organization for the curated data summary report. All analyses were conducted using open-source Python libraries including scikit-learn, XGBoost, CatBoost, and SHAP.
+We sincerely acknowledge the **Centers for Disease Control and Prevention (CDC)** for making the YRBS dataset publicly accessible, and the **Child Health and Community Wellness** organization for the curated data summary report. All analyses were conducted using open-source Python libraries including scikit-learn, XGBoost, CatBoost, and SHAP.
