@@ -221,3 +221,29 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 We sincerely acknowledge the **Centers for Disease Control and Prevention (CDC)** for making the YRBS dataset publicly accessible, and the **Child Health and Community Wellness** organization for the curated data summary report. All analyses were conducted using open-source Python libraries including scikit-learn, XGBoost, CatBoost, and SHAP.
+
+
+ ## Collaboration and Contributions
+ 
+This project was developed through a collaborative effort, with each team member contributing their expertise across different stages of the workflow from data preparation to modeling and final presentation.
+
+ # Kwame Nyankyerah
+•	Led the data gathering process, ensuring relevant and high-quality data sources were identified and collected. 
+•	Contributed to the refinement and editing of presentation materials, improving clarity, structure, and visual communication of results. 
+
+# Esther Djan
+•	Coordinated overall project activities and team communication, ensuring tasks were aligned and deadlines were met. 
+•	Conducted proofreading and quality assurance across project documents to maintain consistency and professionalism. 
+•	Supported the data analysis phase by providing insights and constructive feedback to improve accuracy and interpretation. 
+
+ # Priscilla Sarfoa Anim
+•	Managed data cleaning and preprocessing, transforming raw data into a structured format suitable for analysis. 
+•	Performed exploratory data analysis (EDA) to uncover patterns and key insights. 
+•	Developed the project brief, clearly outlining objectives, scope, and methodology. 
+
+ # Victor Entsie
+•	Designed and implemented the machine learning model, selecting appropriate algorithms and techniques. 
+•	Conducted model evaluation and performance assessment, ensuring reliability and effectiveness of the model outcomes. 
+
+
+
